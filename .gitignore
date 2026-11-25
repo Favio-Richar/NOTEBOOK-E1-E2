@@ -1,0 +1,21 @@
+# Caché de las APIs: se regenera al ejecutar el notebook
+
+datos/
+
+# Jupyter y Python
+
+.ipynb_checkpoints/
+
+pycache/
+
+# Secretos y configuración local
+
+.env
+
+# Archivos del sistema operativo
+
+.DS_Store
+
+Thumbs.db
+
+desktop.ini
